@@ -49,7 +49,7 @@ Miniconda是一款小巧的python环境管理工具，安装包大约只有50M�
 打开anaconda prompt
 输入
 
-``
+`` prompt
 conda create -n your_env_name python=x.x
 ``
 
